@@ -1,0 +1,100 @@
+*{
+    font-family:'Libre Caslon Display', serif;
+}
+.your-product{
+    padding: 60px;
+}
+ h3,h1,h5{
+    font-weight: 500;
+    font-size: 30px;
+}
+ p{
+    line-height: 1.7;
+    padding: 10px 0;
+}
+h6{
+    margin: 15px 0;
+    font-weight: bolder;
+    font-size: 13px;
+}
+.media-logo{
+    background-color: #F1F4FB;
+    background-color: #F1F4FB;
+    padding: 20px 0 !important;
+    align-items: center;
+}
+.media-logo h3{}
+.logo-part{
+    width: 145px;
+    margin: auto;
+    padding: 9px;
+}
+.problem-fix{
+    padding: 60px;
+}
+.problem-fix h1{}
+.how-fix-problem{
+    padding: 60px;
+}
+.fix-img{
+    margin: 30px 0;
+}
+.users-geeting h5{
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.users-geeting-tittle{}
+.Reinforce-part{}
+.Reinforce-part-tittle{}
+.ask-visitors{}
+.video-part{}
+.my-logo{}
+.image{
+    width: 100%;
+    padding: 7px;
+    display: block;
+    align-items: center;
+}
+.twelvex{
+    background: #CBEAFE;
+}
+.fifteenx{
+    background: #FDCBCA;
+}
+.logo{
+    width: 70%;
+    margin: auto;
+    padding: 5px;
+    align-items: center;
+}
+.my-logo{
+    background-color: #F1F4FB;
+}
+.footer-witdh{
+    
+   width: 170px;
+    
+   margin: auto;
+}
+.footer-icon{
+    width: 54px;
+    margin: auto;
+    padding: 10px 0;
+}
+
+
+
+
+@media (min-width:760px){
+    .support-img{
+        margin-top: 114px;
+
+    }
+}
+@media (max-width:400px){
+    body{
+        width: 100%;
+    }
+}
